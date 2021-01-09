@@ -7,7 +7,7 @@
 - [Resume](https://cvbuilder.me/Resume/fa/46b3011a-f034-405e-8c31-fde3c4c846d1?template=Template8)
 - [SOP](https://github.com/sheydaei/PNU_3991_AR) 
 - [JS Certificate](https://github.com/sheydaei/PNU_3991_AR)
-- [jlord patchwork]
+- [jlord patchwork](Patchwork.jpg)
 ---
 ------------------
 > ارزیابی ها
