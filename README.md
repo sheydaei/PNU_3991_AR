@@ -8,7 +8,6 @@
 - [SOP](https://github.com/sheydaei/PNU_3991_AR) 
 - [JS Certificate](https://github.com/sheydaei/PNU_3991_AR)
 - [jlord patchwork](Patchwork.jpg)
----
 ------------------
 > ارزیابی ها
 
