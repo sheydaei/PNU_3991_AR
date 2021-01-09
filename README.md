@@ -34,3 +34,68 @@
     10. [فرشاد سرلک](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/34_%D9%81%D8%B1%D8%B4%D8%A7%D8%AF%20%D8%B3%D8%B1%D9%84%D9%83)
     11. [علیرضا منتظران](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/63_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D9%85%D9%86%D8%AA%D8%B8%D8%B1%D8%A7%D9%86)
     12. [سحر ریحانی ناراب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/30_%D8%B3%D8%AD%D8%B1%20%D8%B1%D9%8A%D8%AD%D8%A7%D9%86%D9%8A%20%D9%86%D8%A7%D8%B1%D8%A7%D8%A8)
+------------------
+<div align="center"> 
+  
+## روز و ساعت ارائه دروس
+  
+<table style="width:100%">
+  <tr>
+    <th>16-18</th>
+    <th>14-16</th>
+    <th>12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th><a>طراحی كامپيوتری سيستمهای ديجيتال</a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظريه زبانها و ماشين ها</a></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+  <tr>
+    <th><a>ريزپردازنده و زبان اسمبلی</a></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>یک شنبه</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th><a>سیگنالها و سیستمها</a></th>
+    <th></th>
+    <th></th>
+    <th><a>طراحی الگوریتمها</a></th>
+    <th>دوشنبه</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th><a>سیستمهای عامل</a></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>سه شنبه</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>چهارشنبه</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
+
+</div>
