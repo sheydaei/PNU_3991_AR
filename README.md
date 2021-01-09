@@ -49,11 +49,11 @@
     <th>روز</th>
   </tr>
   <tr>
-    <th><a>طراحی كامپيوتری سيستمهای ديجيتال</a></th>
+    <th></th>
     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظريه زبانها و ماشين ها</a></th>
     <th></th>
     <th></th>
-    <th></th>
+      <th><a>اصول طراحی کامپایلر</a></th>
     <th>شنبه</th>
   </tr>
   <tr>
@@ -61,15 +61,15 @@
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
+      <th><a>اقتصاد مهندسی</a></th>
     <th>یک شنبه</th>
   </tr>
   <tr>
     <th></th>
-    <th><a>سیگنالها و سیستمها</a></th>
     <th></th>
     <th></th>
-    <th><a>طراحی الگوریتمها</a></th>
+    <th></th>
+    <th></th>
     <th>دوشنبه</th>
   </tr>
   <tr>
@@ -93,7 +93,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
+    <th><a>برنامه نویسی پیشرفته</a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
