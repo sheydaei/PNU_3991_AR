@@ -17,7 +17,9 @@
 - [خلاصه ارزیابی بخش عمومی](XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
-- [درس نظریه زبان و ماشین]
+- [درس نظریه زبان و ماشین](Theory-of-Languages-and-Machines(133-136))
+-[Theory-of-Languages-and-Machines(133-136)pdf](Theory-of-Languages-and-Machines(133-136).pdf)
+-[Theory-of-Languages-and-Machines(133-136)tex](Theory-of-Languages-and-Machines(133-136).tex)
 - [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/mir-mohammad/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 
