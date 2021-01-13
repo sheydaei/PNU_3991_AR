@@ -18,11 +18,11 @@
 ------------------
 ##  بخش دروس کارشناسی
 
-- [خلاصه ارزیابی درس نظریه زبانها و ماشین](https://github.com/sheydaei/PNU_3991_AR/blob/main/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991%20(1).pdf)
+- [خلاصه ارزیابی درس نظریه زبانها و ماشینها](https://github.com/sheydaei/PNU_3991_AR/blob/main/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991%20(1).pdf)
 ------------------
 ## فهرست درس ها  
 
-- [درس نظریه زبانها و ماشین- ](Theory-of-Languages-and-Machines(133-136))
+- [درس نظریه زبانها و ماشینها- ](Theory-of-Languages-and-Machines)
   - [Theory-of-Languages-and-Machines(133-136)pdf](https://github.com/sheydaei/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines(133-136)/Theory-of-Languages-and-Machines(133-136).pdf)
   - [Theory-of-Languages-and-Machines(133-136)tex](https://github.com/sheydaei/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines(133-136)/Theory-of-Languages-and-Machines(133-136).tex)
 
