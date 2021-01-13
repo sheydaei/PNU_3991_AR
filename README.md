@@ -22,7 +22,7 @@
 ------------------
 ## فهرست درس ها  
 
-- [درس نظریه زبانها و ماشینها- ](https://github.com/sheydaei/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+- [درس نظریه زبانها و ماشینها 1115157_01 ](https://github.com/sheydaei/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 
 
 
