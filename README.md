@@ -15,12 +15,16 @@
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](XX_CV_CheckList_AR_3991(1).pdf)
 - [خلاصه ارزیابی بخش عمومی](XX_GeneralSection_CheckList_AR_3991.pdf)
-
+------------------
 ##  بخش دروس کارشناسی
-- [درس نظریه زبان و ماشین](Theory-of-Languages-and-Machines(133-136))
+
+- [خلاصه ارزیابی درس نظریه زبانها و ماشین](https://github.com/sheydaei/PNU_3991_AR/blob/main/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991%20(1).pdf)
+------------------
+## فهرست درس ها  
+
+- [درس نظریه زبانها و ماشین- ](Theory-of-Languages-and-Machines(133-136))
   - [Theory-of-Languages-and-Machines(133-136)pdf](https://github.com/sheydaei/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines(133-136)/Theory-of-Languages-and-Machines(133-136).pdf)
   - [Theory-of-Languages-and-Machines(133-136)tex](https://github.com/sheydaei/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines(133-136)/Theory-of-Languages-and-Machines(133-136).tex)
-- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/sheydaei/PNU_3991_AR/blob/main/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991%20(1).pdf)
 
 
 ------
