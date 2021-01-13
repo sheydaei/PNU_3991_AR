@@ -22,9 +22,8 @@
 ------------------
 ## فهرست درس ها  
 
-- [درس نظریه زبانها و ماشینها- ](Theory-of-Languages-and-Machines)
-  - [Theory-of-Languages-and-Machines(133-136)pdf](https://github.com/sheydaei/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines(133-136)/Theory-of-Languages-and-Machines(133-136).pdf)
-  - [Theory-of-Languages-and-Machines(133-136)tex](https://github.com/sheydaei/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines(133-136)/Theory-of-Languages-and-Machines(133-136).tex)
+- [درس نظریه زبانها و ماشینها- ](https://github.com/sheydaei/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+
 
 
 ------
