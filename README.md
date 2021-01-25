@@ -19,6 +19,7 @@
 ##  بخش دروس کارشناسی
 
 - [خلاصه ارزیابی درس نظریه زبانها و ماشینها](https://github.com/sheydaei/PNU_3991_AR/blob/main/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991%20(1).pdf)
+- [ارائه شفاهی فصل یک](https://www.aparat.com/v/lHjaJ)
 ------------------
 ## فهرست درس ها  
 
